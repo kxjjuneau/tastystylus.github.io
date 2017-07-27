@@ -1,0 +1,12 @@
+div{
+    border-style: solid;
+    width: 20px;
+    height: 20px;
+    background-color: aquamarine;
+}
+
+p{
+    border-style: dashed;
+    border-color: black;
+    background-color: aqua;
+}
